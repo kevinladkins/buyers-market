@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Navbar from './Navbar'
+import Navbar from './components/Navbar'
+import {BrowserRouter as Router, Route } from 'react-router-dom';
 import {Jumbotron} from 'react-bootstrap'
 import './App.css';
 
