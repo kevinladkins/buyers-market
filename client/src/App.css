@@ -6,9 +6,8 @@
       margin: 0;
       height: 200px;
     }
-
-.navbar {
-  margin: 0;
+.spacer {
+  height: 20px;
 }
 
 .App {
